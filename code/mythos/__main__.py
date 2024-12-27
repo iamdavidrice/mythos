@@ -20,7 +20,7 @@ def create_story():
     user_prompt = input(
         "Tell me about your story idea. Include any details you've thought of so \n"
         "far - characters, setting, plot, or themes. Any other stories or writers \n"
-        "you're inspired by. Also consider sharing informaation about you and your \n"
+        "you're inspired by. Also consider sharing information about you and your \n"
         "your target audience. Share as much or as little as you like: \n"
         )
     #user_info = input("Tell me about yourself. The more the better. :)")
